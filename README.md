@@ -125,9 +125,9 @@ Identify ways to increase customer activation rates (currently at 57.5%) and red
 
 a. Revenue increased by 28.8% in Week 53 (ending 31st Dec).
 
-b. Total transaction amount and count increased by xx% (specific percentages to be calculated).
+b. Total transaction amount and count increased by 10% .
 
-c. Customer count increased by xx% (specific percentage to be calculated).
+c. Customer count increased by 7% .
 
 d. Year to Date (YTD) Overview:
 
